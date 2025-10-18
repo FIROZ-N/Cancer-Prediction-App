@@ -95,7 +95,7 @@ Prediction:
 
 👨‍💻 Author
 
-Alexander Paul
+FIROZ MUHAMMED N
 BSc Computer Science | Machine Learning & Web Developer
 
 🪪 License
